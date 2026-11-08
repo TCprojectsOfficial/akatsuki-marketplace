@@ -2,7 +2,7 @@ AKATSUKI
 
 One destination. Many sellers. Endless possibilities.
 
-A multi-vendor e-commerce marketplace by "TCprojects" (https://github.com/TCprojects).
+A multi-vendor e-commerce marketplace by "TCprojects".
 
 «Bringing independent sellers and customers together through one shared digital marketplace.»
 
@@ -261,8 +261,6 @@ The production application source code is maintained separately in a private Git
 Contact and Company
 
 TCprojects
-
-GitHub: "https://github.com/TCprojects" (https://github.com/TCprojects)
 
 Website: "https://tcprojects.lovable.app/portfolio" (https://tcprojects.lovable.app/portfolio)
 
